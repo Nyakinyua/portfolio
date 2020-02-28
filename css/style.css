@@ -1,13 +1,4 @@
-/*
-  Theme Name: DevFolio
-  Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-  Author: BootstrapMade.com
-  License: https://bootstrapmade.com/license/
-*/
 
-/*======================================
-//--//-->   STYLES GENERALES
-======================================*/
 
 body {
   background-color: #f5f5f5;
@@ -103,10 +94,6 @@ a:hover {
   opacity: .7;
 }
 
-.paralax-mf {
-  position: relative;
-  padding: 8rem 0;
-}
 
 .display-table {
   width: 100%;
